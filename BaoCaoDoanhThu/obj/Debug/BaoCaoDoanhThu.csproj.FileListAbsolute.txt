@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\bin\Debug\BaoCaoDoanhThu.exe.config
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\bin\Debug\BaoCaoDoanhThu.exe
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\bin\Debug\BaoCaoDoanhThu.pdb
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.Properties.Resources.resources
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.exe
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.pdb
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.Form1.resources
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.forms.frmBaoCaoDoanhThu.resources
+C:\Users\Admin\source\repos\BaoCaoDoanhThu\BaoCaoDoanhThu\obj\Debug\BaoCaoDoanhThu.forms.frmDanhSachDiem.resources
